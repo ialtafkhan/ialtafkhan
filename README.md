@@ -18,7 +18,7 @@ I love playing destroy and move the code to squeeze as much learning as possible
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/altaf-khan-839a3819b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="altaf-khan-839a3819b/" height="30" width="40" /></a>
-<a href="https://instagram.com/ialtafkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ialtafkhan" height="30" width="40" /></a>
+<a href="https://instagram.com/ialtafpathan" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ialtafkhan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,7 +26,7 @@ I love playing destroy and move the code to squeeze as much learning as possible
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ialtafkhan&show_icons=true&locale=en&layout=compact" alt="ialtafkhan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ialtafpathan&show_icons=true&locale=en" alt="ialtafpathan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ialtafkhan&show_icons=true&locale=en" alt="ialtafkhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ialtafkhan&" alt="ialtafkhan" /></p>
 
