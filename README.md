@@ -26,7 +26,7 @@ I love playing destroy and move the code to squeeze as much learning as possible
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ialtafkhan&show_icons=true&locale=en&layout=compact" alt="ialtafkhan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ialtafkhan&show_icons=true&locale=en" alt="ialtafkhan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ialtafpathan&show_icons=true&locale=en" alt="ialtafpathan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ialtafkhan&" alt="ialtafkhan" /></p>
 
