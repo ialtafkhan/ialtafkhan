@@ -7,7 +7,7 @@ I love playing destroy and move the code to squeeze as much learning as possible
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=ialtafkhan&label=Profile%20views&color=0e75b6&style=flat" alt="ialtafkhan" > </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Python & Django**
 
 - 💬 Ask me about **Web Developing,MERN**
 
